@@ -1,4 +1,3 @@
-
 class HelloWorld
 
    def self.hello
@@ -6,3 +5,4 @@ class HelloWorld
    end
 
  end
+
